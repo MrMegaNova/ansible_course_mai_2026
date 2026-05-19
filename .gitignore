@@ -1,0 +1,9 @@
+participants.md
+participants/
+.vagrant
+.vscode
+.ansible
+playbook_examples/library/__pycache__/
+uv.lock
+__pycache__/
+*.pyc
